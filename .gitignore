@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .streamlit/
-processed/
+
 data/approved_docs/
 !data/approved_docs/.gitkeep
 # Ignore OS generated files
